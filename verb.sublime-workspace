@@ -1,0 +1,409 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/verb/core/Constants.hx",
+			"settings":
+			{
+				"buffer_size": 633,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "examples/curveIntersection.html",
+			"settings":
+			{
+				"buffer_size": 1722,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "info Visit https://yarnpkg.com/en/docs/cli/add for documentation about this command.                                            \njaeyoon@tal01:/mnt/tera2/dev_repo/verb$ node --version                                                                          \nv10.16.3                                                                                                                        \njaeyoon@tal01:/mnt/tera2/dev_repo/verb$ yarn run flow-remove-types src/ -- -d lib/                                              \nyarn run v1.17.3                                                                                                                \nwarning From Yarn 1.0 onwards, scripts don't require \"--\" for options to be forwarded. In a future version, any explicit \"--\" wi\nll be forwarded as-is to the scripts.                                                                                           \n$ /mnt/tera2/dev_repo/verb/node_modules/.bin/flow-remove-types src/ -d lib/                                                     \nsrc/support/footer.js                                                                                                           \n ↳ lib/support/footer.js                                                                                                        \nsrc/support/header.js                                                                                                           \n ↳ lib/support/header.js                                                                                                        \nDone in 0.24s.                                                                                                                  \njaeyoon@tal01:/mnt/tera2/dev_repo/verb$                                                                                         \njaeyoon@tal01:/mnt/tera2/dev_repo/verb$                                                                                         \njaeyoon@tal01:/mnt/tera2/dev_repo/verb$                                                                                         \njaeyoon@tal01:/mnt/tera2/dev_repo/verb$                                                                                         \n",
+			"settings":
+			{
+				"buffer_size": 2193,
+				"line_ending": "Unix",
+				"name": "JavaScript Enhancements Terminal (bash)",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"termianl",
+				"Preferences: Terminal View: Color Scheme"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"terminal",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			],
+			[
+				"package",
+				"Install Package Control"
+			],
+			[
+				"colors ",
+				"UI: Select Color Scheme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jaeyoon/dev_repo/verb",
+		"/home/jaeyoon/dev_repo/verb/build",
+		"/home/jaeyoon/dev_repo/verb/build/js",
+		"/home/jaeyoon/dev_repo/verb/examples",
+		"/home/jaeyoon/dev_repo/verb/lib"
+	],
+	"file_history":
+	[
+		"/mnt/tera2/dev_repo/verb/build/js/verb.js",
+		"/mnt/tera2/dev_repo/verb/examples/curveClosestPoint.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/verb/core/Constants.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 633,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								630,
+								630
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "examples/curveIntersection.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1722,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								848,
+								848
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2193,
+						"regions":
+						{
+							"0,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										4
+									]
+								],
+								"scope": "terminalview.black_blue"
+							},
+							"11,3":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										1422,
+										1443
+									]
+								],
+								"scope": "terminalview.black_green"
+							},
+							"5,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										645,
+										652
+									]
+								],
+								"scope": "terminalview.black_brown"
+							},
+							"9,3":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										1164,
+										1185
+									]
+								],
+								"scope": "terminalview.black_green"
+							}
+						},
+						"selection":
+						[
+							[
+								2104,
+								2104
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"caret_style": "blink",
+							"color_scheme": "Packages/TerminalView/TerminalView.hidden-tmTheme",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_white_space": "none",
+							"gutter": false,
+							"highlight_line": false,
+							"scroll_past_end": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminal_view": true,
+							"terminal_view_activate_args":
+							{
+								"cmd": "/bin/bash -l",
+								"cwd": "/home/jaeyoon/dev_repo/verb",
+								"keep_open": false,
+								"syntax": null,
+								"title": "JavaScript Enhancements Terminal (bash)"
+							},
+							"terminal_view_last_cursor_pos":
+							[
+								16,
+								40
+							],
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.7,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "verb.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
