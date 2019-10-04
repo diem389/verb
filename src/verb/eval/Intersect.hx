@@ -514,7 +514,7 @@ class Intersect {
                         2.0 * Vec.dot( drdv, r ) ];
         }
 
-        var sol_obj = Minimizer.uncmin( objective, start_params, tol*tol, grad );
+        var sol_obj = Minimizer.uncmin( objective, start_params, tol*tol, grad );        
         var final = sol_obj.solution;
 
         return new CurveSurfaceIntersection( final[0], [ final[1], final[2] ],
